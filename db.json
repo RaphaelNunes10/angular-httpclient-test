@@ -2,11 +2,53 @@
   "data": [
     {
       "id": "0",
-      "text": "test"
+      "text": "test",
+      "listIndex": 1
     },
     {
       "id": "78f2",
-      "text": "Test2"
+      "text": "Test2",
+      "listIndex": 0
+    },
+    {
+      "id": "170d",
+      "text": "Lorem Ipsum",
+      "listIndex": 9
+    },
+    {
+      "id": "0bbc",
+      "text": "Test4",
+      "listIndex": 2
+    },
+    {
+      "id": "f5ce",
+      "text": "Test3",
+      "listIndex": 3
+    },
+    {
+      "id": "49cc",
+      "text": "Test5",
+      "listIndex": 7
+    },
+    {
+      "id": "6fae",
+      "text": "Test6",
+      "listIndex": 6
+    },
+    {
+      "id": "572b",
+      "text": "Test10",
+      "listIndex": 5
+    },
+    {
+      "id": "93b9",
+      "text": "Test9",
+      "listIndex": 8
+    },
+    {
+      "id": "5239",
+      "text": "Test8",
+      "listIndex": 4
     }
   ]
 }

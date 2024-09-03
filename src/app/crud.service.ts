@@ -21,4 +21,8 @@ export class CrudService {
   postData(text: string): Observable<Data> {
     return this.http.post<Data>(this.url, { text: text })
   }
+
+  patchData(id: string, data: object): Observable<Data> {
+    return this.http.patch<Data>(`${this.url}/${id}`, data)
+  }
 }

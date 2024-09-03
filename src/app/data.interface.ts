@@ -1,4 +1,5 @@
 export interface Data {
-  id: number,
-  text: string
+  id: string,
+  text: string,
+  listIndex: number
 }
